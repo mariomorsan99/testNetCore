@@ -1,0 +1,15 @@
+C:\Users\Hitss\Documents\CURSO ANGULAR\Net Core\test\Aplicacion\bin\Debug\net5.0\Aplicacion.deps.json
+C:\Users\Hitss\Documents\CURSO ANGULAR\Net Core\test\Aplicacion\bin\Debug\net5.0\Aplicacion.dll
+C:\Users\Hitss\Documents\CURSO ANGULAR\Net Core\test\Aplicacion\bin\Debug\net5.0\Aplicacion.pdb
+C:\Users\Hitss\Documents\CURSO ANGULAR\Net Core\test\Aplicacion\bin\Debug\net5.0\Dominio.dll
+C:\Users\Hitss\Documents\CURSO ANGULAR\Net Core\test\Aplicacion\bin\Debug\net5.0\Persistencia.dll
+C:\Users\Hitss\Documents\CURSO ANGULAR\Net Core\test\Aplicacion\bin\Debug\net5.0\Dominio.pdb
+C:\Users\Hitss\Documents\CURSO ANGULAR\Net Core\test\Aplicacion\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\Hitss\Documents\CURSO ANGULAR\Net Core\test\Aplicacion\obj\Debug\net5.0\Aplicacion.csprojAssemblyReference.cache
+C:\Users\Hitss\Documents\CURSO ANGULAR\Net Core\test\Aplicacion\obj\Debug\net5.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hitss\Documents\CURSO ANGULAR\Net Core\test\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\Hitss\Documents\CURSO ANGULAR\Net Core\test\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfo.cs
+C:\Users\Hitss\Documents\CURSO ANGULAR\Net Core\test\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Hitss\Documents\CURSO ANGULAR\Net Core\test\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CopyComplete
+C:\Users\Hitss\Documents\CURSO ANGULAR\Net Core\test\Aplicacion\obj\Debug\net5.0\Aplicacion.dll
+C:\Users\Hitss\Documents\CURSO ANGULAR\Net Core\test\Aplicacion\obj\Debug\net5.0\Aplicacion.pdb
